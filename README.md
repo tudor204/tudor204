@@ -15,10 +15,13 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"  title="markdown" alt="Apple" width="40" height="40"/>&nbsp;
  
+</div>    
+<div align="center">
+<img src="https://imagenes.20minutos.es/files/image_990_556/uploads/imagenes/2023/01/18/traductor-google.jpeg" title="Traductor" width="250" height="250"/>
+
+  
+*** 
 </div>
-
-
-
 
 
 <div align="center" max>
