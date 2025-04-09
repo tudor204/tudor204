@@ -1,44 +1,85 @@
-
-<div id="header" align="center" max> 
-  <img src="https://webescuela.com/wp-content/uploads/2020/08/que-hace-un-desarrollador-web.png" width="200"/>
-    <h1> Hola, mi nombres es Manuel Jesús. </h1>
-      <h3>Soy una persona nueva en todo éste mundo, pero con muchas ganas de aprender y llevar a cabo nuevos proyectos. Me considero un apasionado por los nuevos retos, para poder seguir aprendiendo y adquiriendo conocimientos que me ayuden a mejorar en mi carrera profesional.</h3>
-</div>
-
-<h2><strong>Información de contacto</strong></h2>
-<ul>
-  <li><strong>Número de teléfono:</strong>670793441</li>
-   <li><strong>Correo electrónico:</strong>tudor204@hotmail.com</li>
-</ul>
- <div>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="phyton" alt="Apple" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"  title="markdown" alt="Apple" width="40" height="40"/>&nbsp;
- 
-</div>    
 <div align="center">
-<img src="https://imagenes.20minutos.es/files/image_990_556/uploads/imagenes/2023/01/18/traductor-google.jpeg" title="Traductor" width="250" height="250"/>
-
   
-*** 
+---
+> *"Estoy convencido de que en este día somos dueños de nuestro destino, que la tarea que se nos ha impuesto no es superior a nuestras fuerzas; que sus acometidas no están por encima de lo que soy capaz de soportar. Mientras tengamos fe en nuestra causa y una indeclinable voluntad de vencer, la victoria estará a nuestro alcance."*
+---
 </div>
+# ¡Hola Mundo! 👋 Soy Manuel Jesús
 
+## 🌟 Sobre Mí
 
-<div align="center" max>
-  <h1>Imagen Cargada desde una URL</h1>
-  <img src="https://imagenes.elpais.com/resizer/v2/A3JAIXXDNFCHDMH7UHR7HQAS2Q.jpg?auth=52602797327d1cae0a2dbced62f677c66bd2fdd03e84eb9cb508f9e9a790fbe3&width=1200" alt="Imagen de ejemplo">
-</div>
+Soy Manuel Jesús, un apasionado del desarrollo web en constante aprendizaje, con un fuerte interés por construir soluciones digitales desde cero. Aunque estoy dando mis primeros pasos en este mundo, cada día me sumerjo con entusiasmo en el código, explorando las infinitas posibilidades que ofrece la programación.
 
-<div style="display: flex;">
-  <h1>Imagen Cargada desde una URL</h1>
-  <img src="https://imagenes.elpais.com/resizer/v2/A3JAIXXDNFCHDMH7UHR7HQAS2Q.jpg?auth=52602797327d1cae0a2dbced62f677c66bd2fdd03e84eb9cb508f9e9a790fbe3&width=1200" alt="Imagen de ejemplo" style="width: 500px; height: auto;">
-  <div style="display: flex;">
-     <img src="https://imagenes.elpais.com/resizer/v2/A3JAIXXDNFCHDMH7UHR7HQAS2Q.jpg?auth=52602797327d1cae0a2dbced62f677c66bd2fdd03e84eb9cb508f9e9a790fbe3&width=1200" alt="Imagen de ejemplo" style="width: 250px; height: auto;">
-    <img src="https://imagenes.elpais.com/resizer/v2/A3JAIXXDNFCHDMH7UHR7HQAS2Q.jpg?auth=52602797327d1cae0a2dbced62f677c66bd2fdd03e84eb9cb508f9e9a790fbe3&width=1200" alt="Imagen de ejemplo" style="width: 250px; height: auto;">
-    <img src="https://imagenes.elpais.com/resizer/v2/A3JAIXXDNFCHDMH7UHR7HQAS2Q.jpg?auth=52602797327d1cae0a2dbced62f677c66bd2fdd03e84eb9cb508f9e9a790fbe3&width=1200" alt="Imagen de ejemplo" style="width: 250px; height: auto;">
-    <img src="https://imagenes.elpais.com/resizer/v2/A3JAIXXDNFCHDMH7UHR7HQAS2Q.jpg?auth=52602797327d1cae0a2dbced62f677c66bd2fdd03e84eb9cb508f9e9a790fbe3&width=1200" alt="Imagen de ejemplo" style="width: 250px; height: auto;">
-  </div>
-</div>
+Mi viaje comenzó con lenguajes como C# y Python, donde descubrí la lógica fundamental de la programación. Ahora, estoy enfocado en dominar las bases del desarrollo web frontend, trabajando con HTML, CSS y JavaScript para crear interfaces funcionales y atractivas. Me fascina cómo unas pocas líneas de código pueden transformarse en experiencias interactivas, y por eso dedico tiempo a proyectos personales donde aplico lo que aprendo.
 
+Soy autodidacta por convicción: creo que la curiosidad y la práctica constante son las mejores herramientas para crecer en este campo. Cuando no estoy programando, investigo sobre nuevas tecnologías, sigo tutoriales o participo en comunidades de desarrollo para aprender de otros.
 
-para poner enlaces clickables 
+Aunque aún no tengo experiencia profesional, cada proyecto que completo (por pequeño que sea) me acerca a mi meta de convertirme en un desarrollador competente.
+
+Soy perseverante, detallista y me gustan los retos. Cada error es una lección, y cada logro, por mínimo, me motiva a seguir avanzando. Busco oportunidades para colaborar, aprender de desarrolladores más experimentados y, eventualmente, contribuir al mundo tech con mis propias ideas.
+
+> *"Creo que la tecnología es la herramienta más poderosa para crear soluciones innovadoras y mejorar la vida de las personas."*
+
+Cuando no estoy programando, me gusta practicar todo tipo de deporte, y además soy papá de un niño y una niña a tiempo completo.
+
+## 🛠 Stack Tecnológico
+
+### Lenguajes que domino:
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+
+### Actualmente aprendiendo:
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+### Herramientas que uso:
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+## 🚀 Mi Viaje de Aprendizaje
+
+Mi enfoque para aprender desarrollo web se basa en:
+- **Aprendizaje práctico**: Construyendo proyectos reales
+- **Fundamentos sólidos**: Entendiendo conceptos básicos primero
+- **Comunidad**: Participando en foros y revisando código
+
+## 💼 Proyectos Destacados
+
+### [Mi Primer Portfolio Web](https://github.com/tudor204/primer-proyecto)
+Una página estática creada con HTML que incluye:
+- Diseño responsive básico
+- Sección de proyectos
+- Formulario de contacto
+
+### [Retos de Programación en Python](https://github.com/tudor204/python-ejercicios)
+Colección de ejercicios donde practico:
+- Lógica de programación
+- Estructuras de datos
+- Algoritmos básicos
+
+## 📊 Mi Actividad en GitHub
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tudor204&show_icons=true&theme=radical)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tudor204&layout=compact&theme=radical)
+
+![Visitas](https://komarev.com/ghpvc/?username=tudor204&label=Visitas&color=blueviolet)
+
+## 🌱 Metas para 2024
+
+1. Dominar JavaScript y CSS moderno
+2. Construir mi primer proyecto fullstack
+3. Contribuir a proyectos open source
+4. Crear contenido técnico
+
+## 📫 Contacto
+
+📧 [tudor204@hotmail.com](mailto:tudor204@hotmail.com)  
+💻 [github.com/tudor204](https://github.com/tudor204)
+
+---
+
+© 2024 Manuel Jesús | Hecho con ❤️ y código
