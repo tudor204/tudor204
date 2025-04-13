@@ -41,7 +41,7 @@ Cuando no estoy programando, me gusta practicar todo tipo de deporte, y además 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-## 🚀 Mi Viaje de Aprendizaje
+##  Mi Viaje de Aprendizaje
 
 Mi enfoque para aprender desarrollo web se basa en:
 - **Aprendizaje práctico**: Construyendo proyectos reales
@@ -62,14 +62,14 @@ Colección de ejercicios donde practico:
 - Estructuras de datos
 - Algoritmos básicos
 
-## 📊 Mi Actividad en GitHub
+##  Mi Actividad en GitHub
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=tudor204&show_icons=true&theme=radical)
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tudor204&layout=compact&theme=radical)
 
 ![Visitas](https://komarev.com/ghpvc/?username=tudor204&label=Visitas&color=blueviolet)
 
-## 🌱 Metas para 2024
+##  Metas para 2024
 
 1. Dominar JavaScript y CSS moderno
 2. Construir mi primer proyecto fullstack
