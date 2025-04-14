@@ -72,7 +72,7 @@ Colección de ejercicios donde practico:
 
 ![Visitas](https://komarev.com/ghpvc/?username=tudor204&label=Visitas&color=blueviolet)
 
-##  Metas para 2024
+##  Metas para 2025
 
 1. Dominar JavaScript y CSS moderno
 2. Construir mi primer proyecto fullstack
