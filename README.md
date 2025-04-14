@@ -39,7 +39,7 @@ Cuando no estoy programando, me gusta practicar todo tipo de deporte, y además 
 ### Herramientas que uso:
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tudor204)](https://git.io/streak-stats)
 
 ##  Mi Viaje de Aprendizaje
 
@@ -66,6 +66,9 @@ Colección de ejercicios donde practico:
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=tudor204&show_icons=true&theme=radical)
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tudor204&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tudor204&theme=radical)](https://git.io/streak-stats)
+
+
 
 ![Visitas](https://komarev.com/ghpvc/?username=tudor204&label=Visitas&color=blueviolet)
 
