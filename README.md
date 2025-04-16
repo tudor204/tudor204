@@ -86,4 +86,4 @@ Colección de ejercicios donde practico:
 
 ---
 
-© 2024 Manuel Jesús | Hecho con ❤️ y código
+© 2025 Manuel Jesús | Hecho con ❤️ y código
