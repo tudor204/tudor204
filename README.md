@@ -13,7 +13,7 @@ Soy Manuel Jesús, un apasionado del desarrollo web en constante aprendizaje, co
 
 Mi viaje comenzó con lenguajes como C# y Python, donde descubrí la lógica fundamental de la programación. Ahora, estoy enfocado en dominar las bases del desarrollo web frontend, trabajando con HTML, CSS y JavaScript para crear interfaces funcionales y atractivas. Me fascina cómo unas pocas líneas de código pueden transformarse en experiencias interactivas, y por eso dedico tiempo a proyectos personales donde aplico lo que aprendo.
 
-Soy autodidacta por convicción: creo que la curiosidad y la práctica constante son las mejores herramientas para crecer en este campo. Cuando no estoy programando, investigo sobre nuevas tecnologías, sigo tutoriales o participo en comunidades de desarrollo para aprender de otros.
+Soy autodidacta por convicción, creo que la curiosidad y la práctica constante son las mejores herramientas para crecer en este campo. Cuando no estoy programando, investigo sobre nuevas tecnologías, sigo tutoriales o participo en comunidades de desarrollo para aprender de otros.
 
 Aunque aún no tengo experiencia profesional, cada proyecto que completo (por pequeño que sea) me acerca a mi meta de convertirme en un desarrollador competente.
 
