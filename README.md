@@ -53,7 +53,7 @@ Mi enfoque para aprender desarrollo web se basa en:
 ### [Mi Primer Portfolio Web](https://github.com/tudor204/primer-proyecto)
 Una página estática creada con HTML que incluye:
 - Diseño responsive básico
-- Sección de proyectos
+- Sección de proyectos personales 
 - Formulario de contacto
 
 ### [Retos de Programación en Python](https://github.com/tudor204/python-ejercicios)
