@@ -7,7 +7,7 @@
 <h1># ¡Hola Mundo!  Soy Manuel Jesús</h1>
 </div>
 
-## 🌟 Sobre Mi
+##  Sobre Mi
 
 Soy Manuel Jesús, un apasionado del desarrollo web en constante aprendizaje, con un fuerte interés por construir soluciones digitales desde cero. Aunque estoy dando mis primeros pasos en este mundo, cada día me sumerjo con entusiasmo en el código, explorando las infinitas posibilidades que ofrece la programación.
 
