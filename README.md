@@ -7,7 +7,7 @@
 ---
 
 #  ¡Hola Mundo! Soy **Manuel Jesús**   
-💻 Desarrollador Web en formación | 🐍 Python & ⚡ C# | 🌱 Aprendiendo React
+💻 Desarrollador Web en formación |Python &  C# 
 
 </div>
 
